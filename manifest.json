@@ -1,7 +1,7 @@
 {
   "name": "Minhas Finanças",
   "short_name": "Finanças",
-  "start_url": "./financas.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#EEF2E9",
